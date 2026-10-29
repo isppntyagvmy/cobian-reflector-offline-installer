@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Backup+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Cobian Reflector Free Installer** — Cobian Reflector is a free backup application for Windows that creates automatic scheduled backups of files, folders, and entire drives. Works without internet access, no account required. Full offline installation.
+**💻 Cobian Reflector Free Installer** — Cobian Reflector is a free backup software for Windows that schedules and automates file and folder backups to local drives, network shares, FTP servers, and cloud storage. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Cobian Reflector
 
-Cobian Reflector is a free backup application for Windows that creates automatic scheduled backups of files, folders, and entire drives. Support for local, network, and FTP destinations, compression, encryption, and differential/incremental backup modes make it a comprehensive backup solution. Cobian Reflector is the successor to the widely-used Cobian Backup with an improved interface.
+Cobian Reflector is a free backup software for Windows that schedules and automates file and folder backups to local drives, network shares, FTP servers, and cloud storage. It supports compression, encryption, and differential/incremental backup strategies.
 
 ---
 
 ## ❌ Problem: Cobian Reflector is hard to access
 
 - **Windows Only** — No macOS or Linux version
-- **Setup Complexity** — Configuring backup jobs requires careful attention to settings
-- **Service Mode** — Running as a service requires administrative privileges
-- **Recovery Tools** — Restoration requires manual process for some backup types
+- **Complex Configuration** — Setting up backup tasks and schedules requires careful attention
+- **No Bare-Metal Restore** — File-level backup only; cannot restore an entire OS disk image
+- **Interface Style** — UI design dated compared to modern backup solutions
 
 ---
 
@@ -121,7 +121,7 @@ Cobian Reflector is a free backup application for Windows that creates automatic
 
 ---
 
-**Cobian Reflector Free Installer** — Cobian Reflector is a free backup application for Windows that creates automatic scheduled backups of files, folders, and entire drives. Install without internet connection today!
+**Cobian Reflector Free Installer** — Cobian Reflector is a free backup software for Windows that schedules and automates file and folder backups to local drives, network shares, FTP servers, and cloud storage. Install without internet connection today!
 
 <div align="center">
 
